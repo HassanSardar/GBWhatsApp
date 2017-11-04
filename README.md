@@ -1,0 +1,2 @@
+# GBWhatsApp
+GBWhatsApp Related Strings.
