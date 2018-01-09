@@ -1,24 +1,24 @@
-{"version_code":451197,"content":"
-<p>تحديث 6.00</p>
+{"version_code":451199,"content":"
+<p>Update 6.10</p>
 
-<li> New Base Updated to 2.17.351 (PlayStore) </li>
-<li> Exclusive Ability to Send Text Broadcast to Groups (Only Text Messages) </li>
-<li> Exclusive Ability to Filter Message when Clear Chat</li>
-<li> Added Anti-Revoke (Options - Privacy) </li>
-<li> Exclusively Fixed Maps when send Location</li>
-<li> Enabled Live Location Sharing</li>
-<li> Enabled Image/Video Filters (Effects when Send Images) </li>
-<li> Added Option for Centre Names in Conversation Header (Mod 1.1.15)</li>
-<li> Enabled Advance Storage Management (Settings - Data & Storage) </li>
-<li> Enabled Quick Reply (Press and Hold any message and click on the Text Entry) </li>
-<li> Added Custom Anti Revoke</li>
-<li> Added Ability to Revoke Multiple Message at Once</li>
-<li> Added Ability to Copy Text Status (Open Options & Click on Copy) </li>
-<li> Added Ability to Remove Read More option for Long Messages (Mod 1.2.63)</li>
-<li> Added Ability to Send 100 Documents instead of 30</li>
-<li> Added Themed Emoji & GIF Search</li>
-<li> Updated Ability to Select Multiple Contacts in Scheduler for a Single Message (Press and Hold the contact you want to select) </li>
-<li> Fixed Emoji Scroll</li>
+<li> New Base Updated to 2.17.427</li>
+<li> Added New Emojis</li>
+<li> Exclusive DND Mode (Disable Internet only for WhatsApp) (Home Page - Header)</li>
+<li> Added Option to Increase Video Limit in Status (Mod 5.6)</li>
+<li> Exclusive Ability to identify Admin Msg in Group (Besides Number) </li>
+<li> Exclusive Option to Change Fab Size (Mod 2.7.7)</li>
+<li> Exclusive Option to Change Fab Location/Position (Mod 2.7.8)</li>
+<li> Enabled Change Number Notification</li>
+<li> Enabled Clock Sticker</li>
+<li> Enabled Group Info Settings (Will Work when Enabled from Server)</li>
+<li> Added Option to Hide DND Mode Icon (mod 2.1.10)</li>
+<li> Improved Dialer (Now you can Edit, Copy, Paste Numbers)</li>
+<li> Added German Language Support</li>
+<li> Fixed Navigation Bar Color when Select any chat/message</li>
+<li> Fixed Mod 6.2 when Send/Receive More than 1 pic. </li>
+<li> Fixed Mod 6.11 for Android Oreo. </li>
+<li> Fixed Play Videos in some devices</li>
+<li> Fixed Crash when open Custom Privacy Chats</li>
 <li> Other Fixes</li>
 
 ","url":"https://forum.xda-developers.com/android/apps-games/whatsapp-gbwhatsapp-devices-t3518808"
