@@ -1,25 +1,29 @@
-{"version_code":451199,"content":"
-<p>Update 6.10</p>
+{"version_code":451201,"content":"
+<p>Update 6.25</p>
 
-<li> New Base Updated to 2.17.427</li>
-<li> Added New Emojis</li>
-<li> Exclusive DND Mode (Disable Internet only for WhatsApp) (Home Page - Header)</li>
-<li> Added Option to Increase Video Limit in Status (Mod 5.6)</li>
-<li> Exclusive Ability to identify Admin Msg in Group (Besides Number) </li>
-<li> Exclusive Option to Change Fab Size (Mod 2.7.7)</li>
-<li> Exclusive Option to Change Fab Location/Position (Mod 2.7.8)</li>
-<li> Enabled Change Number Notification</li>
-<li> Enabled Clock Sticker</li>
-<li> Enabled Group Info Settings (Will Work when Enabled from Server)</li>
-<li> Added Option to Hide DND Mode Icon (mod 2.1.10)</li>
-<li> Improved Dialer (Now you can Edit, Copy, Paste Numbers)</li>
-<li> Added German Language Support</li>
-<li> Fixed Navigation Bar Color when Select any chat/message</li>
-<li> Fixed Mod 6.2 when Send/Receive More than 1 pic. </li>
-<li> Fixed Mod 6.11 for Android Oreo. </li>
-<li> Fixed Play Videos in some devices</li>
-<li> Fixed Crash when open Custom Privacy Chats</li>
-<li> Other Fixes</li>
+<li> Emoji Style Updated</li>
+<li> New Base Updated to 2.18.9</li>
+<li> Custom Send & Receive sounds</li>
+<li> (Super Exclusive) AutoReply (Auto Message when you are Busy)</li>
+<li> Enabled Search Participants</li>
+<li> Enabled Manage Group Admins</li>
+<li> Enabled Group Settings (Server Sided) </li>
+<li> Added 7 New Conversation Bubbles</li>
+<li> Added 4 New Ticks</li>
+<li> Added 16 New Notifying Bar Icons</li>
+<li> Added 5 New Launcher Icons </li>
+<li> Added Option to Hide Admin Caption in Group (Mod 1.2.64)</li>
+<li> Added Option to Color Admin caption in Group (Mod 1.2.65)</li>
+<li> Added Hindi Language (Indian Language) </li>
+<li> Fixed Hidden Chat opening from Phones</li>
+<li> Fixed Hidden Chat opening from Dialer</li>
+<li> Fixed Hidden Message showing in Widget</li>
+<li> Fixed Hidden Chat Opening from Widget</li>
+<li> Fixed Able to call Hidden Chat From Group</li>
+<li> Fixed Showing Hidden Chat when try to Share from Gallery or File Manager. </li>
+<li> Fixed App Opening from Widget even when Locked</li>
+<li> Fixed Crash On Some Devices</li>
+<li> Many More Fixes</li>
 
 ","url":"https://forum.xda-developers.com/android/apps-games/whatsapp-gbwhatsapp-devices-t3518808"
 }
